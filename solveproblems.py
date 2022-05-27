@@ -57,3 +57,10 @@ The third line contains the product of the two numbers."""
 #         print(diff)
 #         prod = a * b
 #         print(prod)
+
+
+# if __name__ == '__main__':
+#     n = int(input())
+    
+#     for i in range(0, n):
+#         print(i **2)
