@@ -28,6 +28,10 @@ Example:
 The result of the integer division .
 The result of the float division is ."""
 
+
+
+
+
 # if __name__ == '__main__':
 #     a = int(input())
 #     b = int(input())
@@ -36,3 +40,20 @@ The result of the float division is ."""
 #     if (a,b):
 #         print(c)
 #         print(d)
+
+
+"""The first line contains the sum of the two numbers.
+The second line contains the difference of the two numbers (first - second).
+The third line contains the product of the two numbers."""
+
+# if __name__ == '__main__':
+#     a = int(input())
+#     b = int(input())
+    
+#     if(a,b):
+#         sum = a + b
+#         print(sum)
+#         diff = a - b
+#         print(diff)
+#         prod = a * b
+#         print(prod)
